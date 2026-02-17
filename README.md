@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sam Green
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=greensh16)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!--
 **greensh16/greensh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
