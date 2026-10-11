@@ -41,14 +41,14 @@ I care a lot about operational elegance: tools that deploy cleanly on shared sys
   <sub>software · 2026</sub>
 - **[greensh16/xray-cs: v1.3.1](https://doi.org/10.5281/ZENODO.22910459)**  
   <sub>software · 2026</sub>
-- **[greensh16/rudu: v1.5.1](https://doi.org/10.5281/ZENODO.15321604)**  
-  <sub>software · 2026</sub>
 - **[HPC Dashboard: seeing what an HPC job actually used](https://doi.org/10.5281/ZENODO.22105688)**  
   <sub>software · 2026</sub>
 - **[Hacking Kilometer-Scale Models: A Participative Model for Climate Information](https://doi.org/10.1175/BAMS-D-25-0183.1)**  
   <sub>Bulletin of The American Meteorological Society - (BAMS) · journal article · 2026</sub>
 - **Quantifying the impact of climate change on Indigenous right-way burning practices in the Mimal Management Area**  
   <sub>Journal of Southern Hemisphere Earth Systems Science · preprint · 2026</sub>
+- **[feilian-3d](https://doi.org/10.5281/ZENODO.18252581)**  
+  <sub>Zenodo · journal article · 2026</sub>
 <!-- PUBLICATIONS:END -->
  
 <sub>Full record: [ORCID 0000-0003-1129-4676](https://orcid.org/0000-0003-1129-4676)</sub>
